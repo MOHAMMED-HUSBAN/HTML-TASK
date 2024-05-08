@@ -31,11 +31,11 @@
 </div>
 
 <div>
-    <label for="City">City:</label>
-    <select id="City" name="City">
-        <option value="Zarqa">Zarqa</option>
-        <option value="Amman">Amman</option>
-        <option value="Irbid">Irbid</option>
+<label for="City">City:</label>
+<select id="City" name="City">
+<option value="Zarqa">Zarqa</option>
+<option value="Amman">Amman</option>
+<option value="Irbid">Irbid</option>
       </select>
 </div>
 
