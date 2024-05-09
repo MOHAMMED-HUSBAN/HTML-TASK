@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <h2> Table </h2>
+<body>
+<table border="2" width = 250 >
+<tr>
+<td rowspan="2">1.2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr><!knkjbvfkj>
+    <td rowspan="2" colspan="2">2.3</td>
+<td>2</td>   
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+</tr>
+<Tr>
+<td>4</td>
+<td>4</td>
+<td rowspan="1" colspan="2">4</td>
+
+</Tr>
+</table>
+</body>
+
+</html>
